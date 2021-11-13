@@ -1,5 +1,5 @@
 # temp-hackathon
-[![Contributors][contributors-shield]][contributors-url]
+[![Contributors](https://github.com/othneildrew/Best-README-Template/graphs/contributors)
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
