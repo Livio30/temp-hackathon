@@ -33,7 +33,7 @@
 
 
 <p id="built-with"></>
-## Tech Stack Used
+  ## Tech Stack Used
 
 **Client:** React, Redux, BootStrap
 
